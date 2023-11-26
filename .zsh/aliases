@@ -1,4 +1,4 @@
-alias dotfiles='/usr/bin/git --git-dir=/Users/gateixeira/.dotfiles/.git/ --work-tree=/Users/gateixeira'
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 alias ga = 'git add'
 alias gc = 'git commit'
 alias gp = 'git push'
