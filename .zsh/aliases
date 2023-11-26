@@ -1,4 +1,4 @@
-alias config='/usr/bin/git --git-dir=/Users/gateixeira/.cfg/.git/ --work-tree=/Users/gateixeira'
+alias config='/usr/bin/git --git-dir=/Users/gateixeira/.dotfiles/.git/ --work-tree=/Users/gateixeira'
 alias ga = 'git add'
 alias gc = 'git commit'
 alias gp = 'git push'
